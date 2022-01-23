@@ -1,0 +1,189 @@
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\Institute Easy Exam.exe.config
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\Institute Easy Exam.exe
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\Institute Easy Exam.pdb
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csprojAssemblyReference.cache
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form1.resources
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Properties.Resources.resources
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csproj.GenerateResource.cache
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csproj.CoreCompileInputs.cache
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csproj.CopyComplete
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.exe
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.pdb
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form2.resources
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form3.resources
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\DatabasE1.mdf
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\DatabasE1_log.ldf
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form5.resources
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form6.resources
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form7.resources
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form8.resources
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form9.resources
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form10.resources
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form11.resources
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form12.resources
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csproj.ResolveComReference.cache
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form13.resources
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.World.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\OpenTK.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\ZedGraph.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.World.xml
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\OpenTK.xml
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\ZedGraph.xml
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Khan\source\repos\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form14.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\DatabasE1.mdf
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\DatabasE1_log.ldf
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Institute Easy Exam.exe.config
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Institute Easy Exam.exe
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Institute Easy Exam.pdb
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.World.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\OpenTK.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\ZedGraph.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.World.xml
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\OpenTK.xml
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\ZedGraph.xml
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csproj.ResolveComReference.cache
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form1.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form10.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form11.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form12.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form13.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form2.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form3.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form5.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form6.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form7.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form8.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form9.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Properties.Resources.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csproj.GenerateResource.cache
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csproj.CoreCompileInputs.cache
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csproj.CopyComplete
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.exe
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.pdb
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form15.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form16.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form17.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form18.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form20.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form21.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form14.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form19.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form22.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form23.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form24.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form25.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form26.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form27.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form4.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form28.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form29.resources
+C:\Users\Khan\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csprojAssemblyReference.cache
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\DatabasE1.mdf
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\DatabasE1_log.ldf
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Institute Easy Exam.exe.config
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Institute Easy Exam.exe
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Institute Easy Exam.pdb
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.UI.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.World.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\OpenTK.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\OpenTK.GLControl.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\ZedGraph.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.UI.xml
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\Emgu.CV.World.xml
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\OpenTK.xml
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\OpenTK.GLControl.xml
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\ZedGraph.xml
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csproj.AssemblyReference.cache
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csproj.SuggestedBindingRedirects.cache
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csproj.ResolveComReference.cache
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form1.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form10.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form11.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form12.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form13.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form14.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form15.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form16.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form17.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form18.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form19.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form2.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form20.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form21.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form22.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form23.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form24.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form25.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form26.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form27.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form28.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form29.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form3.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form4.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form5.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form6.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form7.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form8.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Form9.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute_Easy_Exam.Properties.Resources.resources
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csproj.GenerateResource.cache
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csproj.CoreCompileInputs.cache
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.csproj.CopyComplete
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.exe
+C:\Users\farha\Desktop\.NET PROJET\Institute Easy Exam\Institute Easy Exam\obj\Debug\Institute Easy Exam.pdb

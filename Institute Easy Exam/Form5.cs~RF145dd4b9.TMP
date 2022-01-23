@@ -1,0 +1,57 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Data.SqlClient;
+
+namespace Institute_Easy_Exam
+{
+    public partial class Form5 : Form
+    {
+        public Form5()
+        {
+            InitializeComponent();
+        }
+
+        private void bunifuThinButton21_Click(object sender, EventArgs e)
+        {
+            if(bunifuMaterialTextbox1.Text!=string.Empty || bunifuMaterialTextbox2.Text!=string.Empty || bunifuMaterialTextbox3.Text!=string.Empty || bunifuMaterialTextbox4.Text!=string.Empty)
+            {
+                 MessageBox.Show("Registered Successfully");
+            }
+            else
+            {
+                MessageBox.Show("Please fill all Fields..!");
+            }
+            SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;Initial Catalog=teacher signup;Integrated Security=True ");
+            SqlCommand cmd = new SqlCommand(@"INSERT INTO [dbo].[teacher]
+            ([teachername] 
+            ,[branch]
+            ,[subject]
+            ,[qualification])
+         VALUES
+             ('" + bunifuMaterialTextbox1.Text + "','" + bunifuMaterialTextbox2.Text + "','" + bunifuMaterialTextbox3.Text+ "','" + bunifuMaterialTextbox4.Text + "')", con);
+            con.Open();
+            cmd.ExecuteNonQuery();
+            con.Close();
+            
+        }
+
+        private void Form5_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuThinButton22_Click(object sender, EventArgs e)
+        {
+            Form1 f = new Form1();
+            f.Show();
+        }
+    }
+    
+}
